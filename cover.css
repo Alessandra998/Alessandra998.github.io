@@ -15,7 +15,7 @@ a:hover {
 .btn-secondary:focus {
   color: #0fa5f3;
   text-shadow: none; /* Prevent inheritance from `body` */
-  background-image: https://bari.ilquotidianoitaliano.com/wp-content/uploads/2020/04/drive-in-2.jpg;
+  background-color: #fff;
   border: .05rem solid #0fa5f3;
 }
 
