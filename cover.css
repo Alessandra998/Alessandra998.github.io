@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-image: Drive.jpg;
+  background-image: url(Drive.jpg);
 }
 
 body {
