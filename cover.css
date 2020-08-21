@@ -15,7 +15,7 @@ a:hover {
 .btn-secondary:focus {
   color: #0fa5f3;
   text-shadow: none; /* Prevent inheritance from `body` */
-  background-image #Drive.jpg;
+  background-color: #fff;
   border: .05rem solid #0fa5f3;
 }
 
@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #ffffff00;
+  background-image: Drive.jpg;
 }
 
 body {
